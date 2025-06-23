@@ -191,8 +191,8 @@
 
         .trending-item {
             position: relative;
-            min-width: 214px;
-            height: 300px;
+            min-width: 215px;
+            height: 305px;
             border-radius: 10px;
             overflow: hidden;
             cursor: pointer;
@@ -314,7 +314,7 @@
 
         .footer {
             background: #000;
-            padding: 50px;
+            padding: 55px;
             color: #737373;
         }
 
